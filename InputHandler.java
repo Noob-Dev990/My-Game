@@ -5,7 +5,7 @@ public class InputHandler implements KeyListener{
 	@Override
 	public void keyPressed(KeyEvent e){
 		int keyCode=e.getKeyCode();
-		if(keyCode>0 && keyCode<keys.length){
+		if(keyCode>=0 && keyCode<keys.length){
 			keys[keyCode]=true;
 		}
 		
@@ -13,7 +13,7 @@ public class InputHandler implements KeyListener{
 	@Override
 	public void keyReleased(KeyEvent e){
 		int keyCode=e.getKeyCode();
-		if(keyCode>0 && keyCode<keys.length){
+		if(keyCode>=0 && keyCode<keys.length){
 			keys[keyCode]=false;
 		}
 	}
