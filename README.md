@@ -1,8 +1,6 @@
 # My-Game
 A simple Raycasting engine - currently in very early development
 
-**Ver 0.1**- Basic Moving Dot Demo
-
 **Description** - This is my first prototype and a very basic demonstration of what I have been learning recently regarding Java and game dev. Made by a highschool senior entirely on a 14 year old Windows 7 family computer using plain Notepad and JDK 8(u472).
 
 **AI usage** - I find it important to be transparent regarding this. AI HAS been used BUT strictly as a learning tool and an assistant. AI has been used to identify relevant packages and libraries and help with finding correct articles to read.
