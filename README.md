@@ -1,4 +1,4 @@
-# My-Game
+# Game-Engine
 A simple Raycasting engine - currently in very early development
 
 **Description** - This is my first prototype and a very basic demonstration of what I have been learning recently regarding Java and game dev. Made by a highschool senior entirely on a 14 year old Windows 7 family computer using plain Notepad and JDK 8(u472).
